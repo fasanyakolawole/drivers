@@ -1,0 +1,62 @@
+[
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_driver_home.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_driver_home.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/fragment_register_step2.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/fragment_register_step2.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_pending_orders.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_pending_orders.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_new_order.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_new_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/item_ongoing_order.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/item_ongoing_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/fragment_register_step1.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/fragment_register_step1.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_register.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_completed_orders.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_completed_orders.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/item_completed_order.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/item_completed_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_ongoing_orders.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_ongoing_orders.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_orders_list.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_orders_list.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_splash.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/fragment_register_step3.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/fragment_register_step3.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/item_pending_order.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/item_pending_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-mergeDebugResources-38:/layout/activity_login.xml",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_login.xml"
+    }
+]

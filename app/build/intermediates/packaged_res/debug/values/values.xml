@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="black">#000000</color>
+    <color name="danger">#dc3545</color>
+    <color name="gray_border">#E8E8E8</color>
+    <color name="gray_dark">#333333</color>
+    <color name="gray_light">#F8F8F8</color>
+    <color name="gray_placeholder">#A9A9A9</color>
+    <color name="gray_text">#666666</color>
+    <color name="light_green">#BF360C</color>
+    <color name="login_primary">#BF360C</color>
+    <color name="naija_green">#34A853</color>
+    <color name="primary">#BF360C</color>
+    <color name="primary_dark">#BF360C</color>
+    <color name="success">#BF360C</color>
+    <color name="warning">#dc3545</color>
+    <color name="white">#FFFFFF</color>
+    <string name="app_name">Naija Meals Driver</string>
+    <string name="completed_orders">Completed</string>
+    <string name="completed_orders_title">Completed Orders</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="create_account">Create your driver account</string>
+    <string name="create_account_btn">Create</string>
+    <string name="delivery_type">Delivery Type</string>
+    <string name="email">Email</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="gcm_defaultSenderId" translatable="false">1058601228104</string>
+    <string name="go_offline">Go Offline</string>
+    <string name="go_online">Go Online</string>
+    <string name="google_api_key" translatable="false">AIzaSyBiMLjxjcu7-PsCIfty2Kz_2iMaP9qBLnA</string>
+    <string name="google_app_id" translatable="false">1:1058601228104:android:c3e8745340fbb3124e057d</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyBiMLjxjcu7-PsCIfty2Kz_2iMaP9qBLnA</string>
+    <string name="google_storage_bucket" translatable="false">naija-meals-c1a5c.firebasestorage.app</string>
+    <string name="has_account">Already have an account? </string>
+    <string name="house_address">House Address</string>
+    <string name="logout">Logout</string>
+    <string name="mobile">Mobile</string>
+    <string name="naija_meals">Naija Meals</string>
+    <string name="name">Name</string>
+    <string name="new_order_alert">You have a new order!</string>
+    <string name="new_orders">New</string>
+    <string name="new_pending_order_title">New Pending Order</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="ongoing_orders">Ongoing</string>
+    <string name="ongoing_orders_title">Ongoing Orders</string>
+    <string name="orders_overview">Orders Overview</string>
+    <string name="password">Password</string>
+    <string name="postcode">Postcode</string>
+    <string name="project_id" translatable="false">naija-meals-c1a5c</string>
+    <string name="register">Register</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_continue">Sign in to continue</string>
+    <string name="step_of">Step %1$d of %2$d</string>
+    <string name="toggle_password">Show/hide password</string>
+    <string name="view_orders">View Orders</string>
+    <string name="weekly_earnings">Weekly Earnings</string>
+    <style name="Theme.DriverApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:statusBarColor">@color/light_green</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.DriverApp.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:statusBarColor">@color/light_green</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+    <style name="Theme.DriverApp.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_transparent</item>
+        <item name="postSplashScreenTheme">@style/Theme.DriverApp.NoActionBar</item>
+    </style>
+</resources>

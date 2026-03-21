@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1058601228104",
+    "project_id": "naija-meals-c1a5c",
+    "storage_bucket": "naija-meals-c1a5c.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1058601228104:android:c3e8745340fbb3124e057d",
+        "android_client_info": {
+          "package_name": "com.naijameals.driver"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBiMLjxjcu7-PsCIfty2Kz_2iMaP9qBLnA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

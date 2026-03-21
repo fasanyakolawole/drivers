@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Naija Meals Driver</string>
+    <string name="naija_meals">Naija Meals</string>
+    <string name="sign_in">Sign In</string>
+    <string name="sign_in_continue">Sign in to continue</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="enter_email">Enter your email</string>
+    <string name="enter_password">Enter your password</string>
+    <string name="register">Register</string>
+    <string name="no_account">Don\'t have an account? </string>
+    <string name="has_account">Already have an account? </string>
+    <string name="create_account">Create your driver account</string>
+    <string name="create_account_btn">Create</string>
+    <string name="name">Name</string>
+    <string name="mobile">Mobile</string>
+    <string name="house_address">House Address</string>
+    <string name="postcode">Postcode</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="delivery_type">Delivery Type</string>
+    <string name="go_online">Go Online</string>
+    <string name="go_offline">Go Offline</string>
+    <string name="logout">Logout</string>
+    <string name="new_orders">New</string>
+    <string name="new_pending_order_title">New Pending Order</string>
+    <string name="ongoing_orders">Ongoing</string>
+    <string name="ongoing_orders_title">Ongoing Orders</string>
+    <string name="completed_orders">Completed</string>
+    <string name="completed_orders_title">Completed Orders</string>
+    <string name="weekly_earnings">Weekly Earnings</string>
+    <string name="orders_overview">Orders Overview</string>
+    <string name="step_of">Step %1$d of %2$d</string>
+    <string name="new_order_alert">You have a new order!</string>
+    <string name="view_orders">View Orders</string>
+    <string name="toggle_password">Show/hide password</string>
+</resources>

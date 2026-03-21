@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Transparent drawable to hide app icon on Android 12+ splash -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <solid android:color="#00000000" />
+    <size android:width="288dp" android:height="288dp" />
+</shape>

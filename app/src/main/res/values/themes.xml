@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Splash screen: hides app icon, shows white bg, then SplashActivity shows delivery image -->
+    <style name="Theme.DriverApp.Splash" parent="Theme.SplashScreen">
+        <item name="windowSplashScreenBackground">@color/white</item>
+        <item name="windowSplashScreenAnimatedIcon">@drawable/ic_splash_transparent</item>
+        <item name="postSplashScreenTheme">@style/Theme.DriverApp.NoActionBar</item>
+    </style>
+
+    <!-- Light-only theme: keeps text readable regardless of system dark mode -->
+    <style name="Theme.DriverApp" parent="Theme.MaterialComponents.Light.DarkActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:statusBarColor">@color/light_green</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+
+    <!-- No action bar for login/register screens -->
+    <style name="Theme.DriverApp.NoActionBar" parent="Theme.MaterialComponents.Light.NoActionBar">
+        <item name="colorPrimary">@color/primary</item>
+        <item name="colorPrimaryVariant">@color/primary_dark</item>
+        <item name="colorOnPrimary">@color/white</item>
+        <item name="android:forceDarkAllowed">false</item>
+        <item name="android:statusBarColor">@color/light_green</item>
+        <item name="android:windowLightStatusBar">true</item>
+    </style>
+</resources>

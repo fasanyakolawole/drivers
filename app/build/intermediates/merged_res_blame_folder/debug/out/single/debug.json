@@ -1,0 +1,274 @@
+[
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_ongoing_badge_in_progress.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_ongoing_badge_in_progress.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_progress_dot.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/progress_dot.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_orders_list.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_orders_list.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_add_alert.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_add_alert.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_phone_android.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_phone_android.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_new_order.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_new_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_login_logo.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_login_logo.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_sign_in_button.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_sign_in_button.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_login_screen.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_login_screen.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_rounded_bg.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/rounded_bg.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_check_circle_green.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_check_circle_green.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_splash_transparent.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_splash_transparent.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_place.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_place.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_item_pending_order.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/item_pending_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_driver_home.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_driver_home.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_phone.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_phone.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_check_circle.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_check_circle.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_attach_money.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_attach_money.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_register.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_register.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_ongoing_badge_picking_up.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_ongoing_badge_picking_up.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_note_box.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_note_box.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_delivery_truck.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_delivery_truck.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_local_shipping.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_local_shipping.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_completed_card.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_completed_card.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_item_ongoing_order.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/item_ongoing_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_waiting_box.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_waiting_box.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable-mdpi_delivery.png.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable-mdpi/delivery.png"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_close.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_close.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_login.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_login.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_logo_circle.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/logo_circle.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_fragment_register_step1.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/fragment_register_step1.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_phone_green.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_phone_green.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_location_on.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_location_on.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_item_completed_order.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/item_completed_order.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_distance_box.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_distance_box.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_card_border_green.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/card_border_green.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_visibility.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_visibility.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_home.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_home.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_ongoing_orders.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_ongoing_orders.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_status_badge.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/status_badge.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_login_card.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_login_card.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_splash.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_splash.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_pending_orders.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_pending_orders.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_online_dot.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/online_dot.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_earnings_box.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_earnings_box.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_completed_badge.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_completed_badge.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_logout.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_logout.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_login.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_login.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_fragment_register_step2.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/fragment_register_step2.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_directions.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_directions.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_pending_badge.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_pending_badge.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_ongoing_badge_assigned.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_ongoing_badge_assigned.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_card_border_yellow.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/card_border_yellow.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_with_opacity.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_with_opacity.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_lock.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_lock.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_email.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_email.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_login_input.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_login_input.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_star.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_star.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_activity_completed_orders.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/activity_completed_orders.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_person.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_person.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_check.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_check.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/layout_fragment_register_step3.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/layout/fragment_register_step3.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable-mdpi_main.png.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable-mdpi/main.png"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_online_dot_active.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/online_dot_active.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/xml_network_security_config.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/xml/network_security_config.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_ic_visibility_off.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/ic_visibility_off.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_card_border_blue.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/card_border_blue.xml"
+    },
+    {
+        "merged": "com.naijameals.driver.app-merged_res-39:/drawable_bg_completed_date.xml.flat",
+        "source": "com.naijameals.driver.app-main-41:/drawable/bg_completed_date.xml"
+    }
+]

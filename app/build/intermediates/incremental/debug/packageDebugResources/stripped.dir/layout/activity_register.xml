@@ -1,0 +1,152 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Matches Drivers RegisterScreen design exactly - same background as login -->
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <!-- Background image - fits to screen -->
+    <ImageView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:src="@drawable/delivery"
+        android:scaleType="centerCrop"
+        android:contentDescription="@null" />
+
+    <!-- Semi-transparent white overlay - makes background image whiter -->
+    <View
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#E6FFFFFF" />
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:fillViewport="true"
+        android:scrollbars="none">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:paddingHorizontal="25dp"
+            android:paddingTop="30dp"
+            android:paddingBottom="40dp">
+
+        <!-- Logo Section - matches RN logoContainer -->
+
+            <!-- Title and Subtitle - matches RN headerContainer -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:gravity="center_horizontal"
+            android:layout_marginBottom="45dp">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/create_account"
+                android:textSize="16sp"
+                android:textColor="@color/gray_text"/>
+        </LinearLayout>
+
+        <!-- Progress Indicator - matches RN progressContainer -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:orientation="horizontal"
+            android:layout_marginTop="10dp"
+            android:layout_marginBottom="10dp">
+
+            <View
+                android:id="@+id/progressDot1"
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:background="@drawable/progress_dot"/>
+            <View
+                android:id="@+id/progressLine1"
+                android:layout_width="40dp"
+                android:layout_height="2dp"
+                android:layout_marginHorizontal="5dp"
+                android:background="@color/gray_border"/>
+            <View
+                android:id="@+id/progressDot2"
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:background="@drawable/progress_dot"/>
+            <View
+                android:id="@+id/progressLine2"
+                android:layout_width="40dp"
+                android:layout_height="2dp"
+                android:layout_marginHorizontal="5dp"
+                android:background="@color/gray_border"/>
+            <View
+                android:id="@+id/progressDot3"
+                android:layout_width="12dp"
+                android:layout_height="12dp"
+                android:background="@drawable/progress_dot"/>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/tvStepIndicator"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_gravity="center"
+            android:text="@string/step_of"
+            android:textSize="14sp"
+            android:textColor="@color/gray_text"
+            android:layout_marginBottom="20dp"/>
+
+        <!-- Form - no CardView, flat like RN -->
+        <FrameLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="30dp">
+
+            <FrameLayout
+                android:id="@+id/fragmentRegister"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"/>
+
+            <ProgressBar
+                android:id="@+id/progressRegister"
+                android:layout_width="32dp"
+                android:layout_height="32dp"
+                android:layout_gravity="center"
+                android:visibility="gone"
+                android:indeterminateTint="@color/login_primary"/>
+        </FrameLayout>
+
+        <!-- Login Link - matches RN loginContainer -->
+        <LinearLayout
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:gravity="center">
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/has_account"
+                android:textSize="16sp"
+                android:textColor="@color/gray_text"/>
+
+            <TextView
+                android:id="@+id/tvSignIn"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/sign_in"
+                android:textSize="16sp"
+                android:textColor="@color/login_primary"
+                android:textStyle="bold"
+                android:paddingStart="4dp"
+                android:paddingEnd="4dp"
+                android:paddingTop="8dp"
+                android:paddingBottom="8dp"/>
+        </LinearLayout>
+        </LinearLayout>
+    </ScrollView>
+</FrameLayout>
