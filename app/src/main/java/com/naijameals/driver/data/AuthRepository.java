@@ -9,6 +9,7 @@ import com.naijameals.driver.api.DriverApi;
 import com.naijameals.driver.api.models.ApiResponse;
 import com.naijameals.driver.api.models.User;
 import com.naijameals.driver.utils.Constants;
+import com.naijameals.driver.utils.NetworkErrorMessages;
 
 import java.util.HashMap;
 import java.util.Map;
@@ -89,7 +90,7 @@ public class AuthRepository {
 
             @Override
             public void onFailure(Call<ApiResponse<Object>> call, Throwable t) {
-                callback.onError(t.getMessage() != null ? t.getMessage() : "Registration failed");
+                callback.onError(NetworkErrorMessages.userMessage(t, "Registration failed"));
             }
         });
     }
@@ -151,7 +152,7 @@ public class AuthRepository {
 
             @Override
             public void onFailure(Call<ApiResponse<Object>> call, Throwable t) {
-                callback.onError(t.getMessage() != null ? t.getMessage() : "Login failed");
+                callback.onError(NetworkErrorMessages.userMessage(t, "Login failed"));
             }
         });
     }
@@ -201,7 +202,7 @@ public class AuthRepository {
 
             @Override
             public void onFailure(Call<ApiResponse<Object>> call, Throwable t) {
-                callback.onError(t.getMessage() != null ? t.getMessage() : "Failed to toggle online status");
+                callback.onError(NetworkErrorMessages.userMessage(t, "Failed to toggle online status"));
             }
         });
     }
@@ -222,7 +223,7 @@ public class AuthRepository {
             @Override
             public void onFailure(Call<ApiResponse<Object>> call, Throwable t) {
                 if (callback != null) {
-                    callback.onError(t.getMessage());
+                    callback.onError(NetworkErrorMessages.userMessage(t, "Failed to refresh user"));
                 }
             }
         });
